@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Wrapp from '../../../hoc/Wrapp';
+import Wrapp from '../../../hoc/Wrapp/Wrapp';
 import Button from '../../UI/Button/Button';
 
 const orderSummary = ( props ) => {
